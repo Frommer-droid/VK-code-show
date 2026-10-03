@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.log
+settings.json
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+Build_Tools/build/
+Build_Tools/dist/
+Build_Tools/settings.json
+build/
+dist/
+VK-code-show/
+_release_work/
